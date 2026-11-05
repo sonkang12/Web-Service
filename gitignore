@@ -1,0 +1,5 @@
+# Kredensial lokal, jangan diunggah
+config.php
+.env
+.DS_Store
+Thumbs.db
